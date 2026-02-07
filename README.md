@@ -1,3 +1,5 @@
+ファミコン実機でグラディウスの長いレーザーを動かしてみた その２ の .nesファイル
+
 ## Videos
 
 [![YouTube: DHBr1qvIgz0](https://img.youtube.com/vi/DHBr1qvIgz0/hqdefault.jpg)](https://www.youtube.com/watch?v=DHBr1qvIgz0)
